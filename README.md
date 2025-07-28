@@ -7,6 +7,11 @@ A **privacy-first**, **open-source** OCR tool powered by **Gemini AI**. Easily s
 
 ---
 
+<img width="1441" height="587" alt="image" src="https://github.com/user-attachments/assets/e08473ae-0b52-4037-8c10-9daf05573e0d" />
+
+
+---
+
 ## ✨ Features
 
 - 🧠 AI-powered OCR & smart document data extraction
